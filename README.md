@@ -1,8 +1,16 @@
-# React + Vite
+# Image Explorer React Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+Image Explorer is a React-based application that allows users to search for and view images sourced from Unsplash. It uses Bootstrap for styling and Axios for making API requests, providing an intuitive and responsive user experience.
 
-Currently, two official plugins are available:
+## Technologies
+- React.js
+- Vite
+- Unsplash API
+- Bootstrap
+- Axios for API requests
+  
+## Acknowledgments
+- This application was built following Yogesh Chavans tutorial from freeCodeCamp. Find the tutorial [here] https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/
+- Thanks to Unsplash for providing a powerful API for accessing a wide array of high-quality images.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
