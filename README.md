@@ -1,5 +1,5 @@
 # Image Explorer React Project
-
+![Image Explorer UI](./src/assets/image_explorer_ui.png)
 ## Introduction
 Image Explorer is a React-based application that allows users to search for and view images sourced from Unsplash. It uses Bootstrap for styling and Axios for making API requests, providing an intuitive and responsive user experience.
 
