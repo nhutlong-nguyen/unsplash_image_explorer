@@ -11,6 +11,6 @@ Image Explorer is a React-based application that allows users to search for and 
 - Axios for API requests
   
 ## Acknowledgments
-- This application was built following Yogesh Chavans tutorial from freeCodeCamp. Find the tutorial [here] https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/
+- This application was built following Yogesh Chavans tutorial from freeCodeCamp. Find the tutorial here: https://www.freecodecamp.org/news/how-to-build-an-image-search-app-using-react/
 - Thanks to Unsplash for providing a powerful API for accessing a wide array of high-quality images.
 
